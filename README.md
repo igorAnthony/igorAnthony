@@ -35,7 +35,5 @@
                 <img src="https://github.com/igorAnthony/igorAnthony/blob/master/instagram_pixel_logo_icon_181922.png" width="23px"
                     alt="Instagram"></a>
         </p>
-
-
     </samp>
 </details>
