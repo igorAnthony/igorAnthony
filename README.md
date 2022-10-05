@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Opa, bão? 
-    <br>Eu sou um universitário da UTFPR do campus de Toledo, curso Tecnologia em Sistemas para Internet.<br>
+    Opa, bão? Eu sou o Igor
+    <br>Atualmente cursando Tecnologia em Sistemas para Internet na UTFPR do campus de Toledo.<br>
 
 </samp>
 
