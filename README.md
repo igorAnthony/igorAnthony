@@ -20,11 +20,11 @@
 
 <p align="center">
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/igor-anthony-716399175/">
-    <img src="https://github.com/igorAnthony/igorAnthony/blob/master/linkedin_pixel_logo_icon_181925.png" width="30px" alt="LinkedIn"></a>
+    <img src="https://github.com/igorAnthony/igorAnthony/blob/master/linkedin_pixel_logo_icon_181925.png" width="23px" alt="LinkedIn"></a>
     &nbsp;
     &nbsp;
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/_h4wkz">
-    <img src="https://github.com/igorAnthony/igorAnthony/blob/master/twitter_pixel_logo_icon_181924.png" width="30px" alt="Twitter"></a>
+    <img src="https://github.com/igorAnthony/igorAnthony/blob/master/twitter_pixel_logo_icon_181924.png" width="23px" alt="Twitter"></a>
     &nbsp;
     &nbsp;
     <a rel="nofollow noopener noreferrer" target="_blank" href="instagram.com/anthony.igor">
