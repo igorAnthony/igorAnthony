@@ -6,8 +6,7 @@
 
 </samp>
 
-  <img src="https://github.com/igorAnthony/igorAnthony/blob/master/972ecb3ba10b3a8.gif" width="200"/>
-  
+ 
 </p>
 
 <details align="center">
