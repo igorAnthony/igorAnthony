@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://github.com/igorAnthony/igorAnthony/blob/main/dragon2.png" width = 400px></picture>
 
 - 🤠 Currently a student at UTFPR in Toledo.
-- 👾 I'm currently learning about flutter
+- 👾 I'm currently learning about kotlin
 - 🌱 I'm looking to collaborate on your open source projects
 - 📫 Directions: <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/igor-anthony-716399175/">
     <img src="https://github.com/igorAnthony/igorAnthony/blob/master/linkedin_pixel_logo_icon_181925.png" width="23px" alt="LinkedIn"></a>
