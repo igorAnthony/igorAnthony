@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://github.com/igorAnthony/igorAnthony/blob/main/dragon2.png" width = 400px></picture>
 
 - 🤠 Currently a student at UTFPR in Toledo.
-- 👾 I'm currently learning about kotlin
+- 👾 I'm currently learning about react native and deepening my knowledge in Flutter
 - 🌱 I'm looking to collaborate on your open source projects
 - 📫 Directions: <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/igor-anthony-716399175/">
     <img src="https://github.com/igorAnthony/igorAnthony/blob/master/linkedin_pixel_logo_icon_181925.png" width="23px" alt="LinkedIn"></a>
@@ -22,6 +22,7 @@
     <kbd>Programming Languages</kbd>
     <br>
     <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
   </kbd>
@@ -31,22 +32,15 @@
     <br>
     <img src="https://github.com/igorAnthony/igorAnthony/blob/main/laravel.svg" width = "30px">
   </kbd>
-   <kbd>
-    <kbd>Mobile</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-  </kbd>
+   
   <kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
