@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/igorAnthony/igorAnthony/blob/master/dark-souls-bonfire.gif" width="30"/> 
-  Welcome to my GitHub! I'm Igor Anthony
+  Welcome to my GitHub! I'm Igor Anthony 
 </h1>
 
 <p align="center">
@@ -28,8 +28,6 @@ I'm a student at UTFPR in Toledo, currently exploring React Native and deepening
 - 🤝 I'm looking to collaborate on open source projects
 - 📫 How to reach me: Check the badges above!
 
----
-
 ## 🛠️ Skills
 
 <div align="center">
@@ -39,8 +37,6 @@ I'm a student at UTFPR in Toledo, currently exploring React Native and deepening
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" title="C"/> | <img src="https://github.com/igorAnthony/igorAnthony/blob/main/laravel.svg" width="40" title="Laravel"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="40" title="Flutter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" title="MySQL"/> |
 
 </div>
-
----
 
 ## 📈 GitHub Stats
 
